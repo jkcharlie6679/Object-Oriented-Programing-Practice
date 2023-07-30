@@ -87,5 +87,5 @@ int main()
 
 ## Reference
 
-[NYCU OCW Object-Oriented Programming Lab 03](https://ocw.nycu.edu.tw/course/oop002/LAB_03.pdf)
+[NYCU OCW Object-Oriented Programming Lab 04](https://ocw.nycu.edu.tw/course/oop002/LAB_04.pdf)
 
