@@ -16,7 +16,7 @@ public:
   }
   bool operator>(const Point2D &p)
   {
-    return (x*x + y*y) > (p.x*p.x + p.y*p.y);
+    return (x > p.x) || (x == p.x && y > p.y);
   }
   Point2D &operator=(const int &k)
   {
